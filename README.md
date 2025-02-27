@@ -1,6 +1,5 @@
 🚀 Anjeel Upreti
 🎯 Python Developer | Backend Engineer | AI & Data Enthusiast
-
 Hello! I’m Anjeel Upreti, a passionate Python Developer with a keen interest in backend development, automation, and AI-driven solutions. I love building scalable applications, optimizing databases, and integrating APIs to create seamless and efficient systems.
 
 🎓 Education
