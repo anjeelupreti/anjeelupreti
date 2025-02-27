@@ -1,22 +1,35 @@
+🚀 Anjeel Upreti
+🎯 Python Developer | Backend Engineer | AI & Data Enthusiast
 
-# 👋 About Me
+Hello! I’m Anjeel Upreti, a passionate Python Developer with a keen interest in backend development, automation, and AI-driven solutions. I love building scalable applications, optimizing databases, and integrating APIs to create seamless and efficient systems.
 
-Hello! My name is **Anjeel Upreti**.
+🎓 Education
+📍 Bachelor’s in Information Management – Nepal Commerce Campus
 
-- **Education:** Studying Bachelor's in Information Management
+🛠️ Skills & Technologies
+💻 Programming Languages:
+🔹 Python | PHP | JavaScript | SQL | C | HTML | CSS
 
-## 🛠️ Skills
-I have experience and knowledge in the following technologies:
-- **Languages:** PHP, C, Python, JavaScript, CSS, HTML, SQL
-- **Frameworks:** Currently focusing on Django (Python framework)
+⚙️ Frameworks & Platforms:
+🔹 Django | Odoo | Flask
 
-## 🚀 Current Focus
-I am currently dedicating my time to mastering the Django framework to prepare for a professional career in software development.
+🗄️ Databases & Data Processing:
+🔹 PostgreSQL | MySQL | Pandas | NumPy
 
-## 📫 Contact
-Feel free to reach out to me for collaboration or any queries!
+📊 AI & Data Science:
+🔹 Machine Learning (Scikit-learn) | Data Visualization (Matplotlib, Seaborn)
 
-- [LinkedIn](www.linkedin.com/in/anjeel-upreti-079421299)
-- [Email](upretianjeel@gmail.com)
+🛠️ Tools & Technologies:
+🔹 Git | Docker | REST APIs | Linux
 
-Thank you for visiting my profile!
+🚀 What I'm Working On
+🔹 Machine Learning & AI Research – Exploring fraud detection, predictive analytics, and automation
+🔹 Backend Development – Building and optimizing scalable API-driven systems
+🔹 Data-Driven Insights – Enhancing my data visualization and analytics skills
+
+📫 Let’s Connect!
+💼 LinkedIn: Anjeel Upreti
+📧 Email: upretianjeel@gmail.com
+🌍 GitHub: AnjeelUpreti
+
+🚀 Passionate about technology, AI, and solving real-world problems with data!
